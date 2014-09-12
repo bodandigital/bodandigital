@@ -1,0 +1,828 @@
+[12-Sep-2014 00:10:27 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:10:27 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:10:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:10:27 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:10:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:34 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:12:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:34 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:12:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:12:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:12:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:12:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:13:42 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:13:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:13:42 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:13:42 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:13:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:13:42 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:13:42 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:13:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:25 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:19:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:50 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:19:50 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:50 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:57 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:19:57 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:57 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:57 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:19:57 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:21:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:25:59 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:25:59 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:25:59 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:25:59 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:25:59 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:01 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:26:01 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:01 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:04 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:26:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:08 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:26:08 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:08 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:08 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:26:08 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:27:51 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:27:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:27:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:27:51 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:27:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:54:21 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 00:54:21 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:54:21 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:54:21 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 00:54:21 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:52 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:25:52 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:52 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:54 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:25:54 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:54 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:54 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:54 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:25:56 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:56 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:25:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:42 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:26:42 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:26:42 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:42 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:42 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:26:42 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:42 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:26:42 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:26 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:27:26 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:26 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:26 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:26 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:30 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:27:30 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:30 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:30 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:30 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:32 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:27:32 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:32 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:32 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:27:52 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:04 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:29:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:10 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:29:10 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:10 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:29:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:34 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:38:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:34 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:37 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:38:37 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:37 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:37 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:37 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:38:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:38:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:41:56 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:56 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:58 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:41:58 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:58 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:58 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:41:58 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:00 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:42:00 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:00 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:00 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:17 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:17 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:42:17 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:42:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:16 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:43:16 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:16 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:16 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:18 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:43:18 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:18 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:18 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:18 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:19 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:43:19 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:19 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:19 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:19 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:34 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:43:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:43:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:48 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:48:48 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:48 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:48 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:48 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:51 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:48:51 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:51 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:51 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:51 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:53 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:48:53 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:53 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:53 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:48:53 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:49:11 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:09 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:52:09 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:09 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:09 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:09 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:10 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:52:10 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:10 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:10 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:10 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:12 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:52:12 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:12 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:12 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:12 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:52:29 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:22 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:57:22 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:22 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:22 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:22 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:25 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:57:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:27 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:57:27 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:27 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:27 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:27 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:57:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:28 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:58:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:28 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:28 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:31 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:58:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:31 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:31 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:32 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:58:32 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:32 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:32 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:32 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:58:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:43 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:59:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:45 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:59:45 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:45 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:45 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:45 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:50 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 01:59:50 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:50 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:50 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 01:59:50 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:00:07 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:17 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:01:17 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:17 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:17 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:17 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:23 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:01:23 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:23 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:23 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:23 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:25 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:01:25 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:25 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:25 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:25 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:01:43 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:34 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:13:34 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:34 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:34 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:34 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:38 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:13:38 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:38 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:38 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:38 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 02:13:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:14:04 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 03:14:04 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:14:04 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:14:04 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:14:04 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:16:05 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 03:16:05 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:16:05 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:16:05 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:16:05 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:28 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 03:24:28 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:28 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:28 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:28 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:39 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 03:24:39 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:39 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:39 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:24:39 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:25:33 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 03:25:33 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:25:33 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:25:33 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 03:25:33 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:06 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 08:19:06 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:06 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:06 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:06 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:56 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 08:19:56 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:56 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:56 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:19:56 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:30:31 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 08:30:31 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:30:31 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:30:31 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 08:30:31 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:00 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 17:38:00 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:00 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:00 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:00 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 17:38:01 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 19:46:16 UTC] PHP Warning:  mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Access denied for user 'bodandig_web'@'localhost' (using password: YES) in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 12
+[12-Sep-2014 19:46:16 UTC] PHP Warning:  mysql_select_db() expects parameter 2 to be resource, boolean given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 13
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Undefined index: password in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 6
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Undefined index: username in /home/sevenyea/public_html/bodandigital.com/lib/top.php on line 7
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 19:46:16 UTC] PHP Warning:  mysql_query() expects parameter 2 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 21
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Undefined variable: his in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 19:46:16 UTC] PHP Notice:  Trying to get property of non-object in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
+[12-Sep-2014 19:46:16 UTC] PHP Warning:  mysql_num_rows() expects parameter 1 to be resource, null given in /home/sevenyea/public_html/bodandigital.com/classes/database.php on line 22
